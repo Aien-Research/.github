@@ -55,7 +55,7 @@ Together, we believe AI should be used to **double business speed**, not add com
 
 Powered by:
 
-`NVIDIA · OpenAI · Laravel · GitHub · Lemon Squeezy · Column · Lilly`
+`OpenAI · Next.js · Tailwind · Supabase · AWS`
 
 ## 📫 Get in Touch
 
