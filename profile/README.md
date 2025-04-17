@@ -4,8 +4,6 @@
 
 Aien is an applied AI research company building automation-first tools that empower businesses to operate faster, smarter, and more sustainably. We specialize in developing impactful products in the fields of sustainability, training, and democracy — areas where efficiency and clarity make a real-world difference.
 
----
-
 ## 🚀 What We Do
 
 ### 🟢 Sustainability: **Bærekraftregisteret (BKREG)**
@@ -32,8 +30,6 @@ An AI-powered chatbot that helps Norwegian citizens explore political parties' o
 - Reliable, fast, and multilingual-ready
 - Used by voters and educators alike
 
----
-
 ## 🧑‍💻 Open Source
 
 We're passionate about open ecosystems. We contribute back to the community and share our own tools and infrastructure when we can.
@@ -46,17 +42,14 @@ Some things we like:
 
 Follow our repositories to stay updated on internal tools and public contributions.
 
----
-
 ## 👥 Founders & People
 
 - **Sebastian Mandal** – Founding Partner: Engineering, AI systems, strategy
 - **Liam Eiternes** – Founding Partner: Product, Key Account Manager
 - **Eivind Wassend** – Sales Director
+- **Sebastian Næss** - Sales
 
 Together, we believe AI should be used to **double business speed**, not add complexity. That’s the foundation of every product we build.
-
----
 
 ## ⚡ Partners & Stack
 
@@ -64,15 +57,11 @@ Powered by:
 
 `NVIDIA · OpenAI · Laravel · GitHub · Lemon Squeezy · Column · Lilly`
 
----
-
 ## 📫 Get in Touch
 
 - 🌍 [Website](https://aien.no)
 - ✉️ hello@aien.no
 - 📬 [Request a demo](https://aien.no#contact)
 - 💼 [LinkedIn](https://www.linkedin.com/company/aien-research)
-
----
 
 _Aien Research © 2025. Transforming the future of business with automation._
